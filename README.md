@@ -8,3 +8,9 @@ Notepad++ User Defined Language File.  Use for Syntax highlighting Splunk .conf 
 
 NOTE:  This was created for Splunk 5.x.
 
+
+##Install
+Visit
+http://stackoverflow.com/questions/12574121/adding-a-user-defined-language-in-notepad
+for instructions.
+
